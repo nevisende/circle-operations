@@ -1,7 +1,7 @@
 # Circle Operations
 ## The Main class  calculates the area and circumference of a circle. And SectorArea class calculates the area of a sector of a circle.
 ### On terminal
-![An screenshot of the program](./ss-example.png)
+![An screenshot of the program](./ss.svg)
 ### Requirements:
 * JDK (version 17 is recommended)
 
